@@ -1,0 +1,26 @@
+.cid-main {
+    background-image: url("../assets/images/background-1199x899.png");
+  }
+  .cid-main h1 {
+    color: #616161;
+  }
+  .cid-main h2,
+  .cid-main h3,
+  .cid-main p {
+    color: #767676;
+  }
+  .cid-main .mbr-section-subtitle {
+    font-style: italic;
+  }
+  .cid-main H1 {
+    text-align: center;
+  }
+  .cid-main H2 {
+    text-align: center;
+  }
+
+  .cid-footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #2e2e2e;
+  }
