@@ -1,23 +1,37 @@
 .cid-main {
   background-image: url("../assets/images/background-1199x899.png");
 }
-.cid-main H1
-{
+
+.cid-main H1 {
   color: #497D96;
   font-size: xx-large;
   text-align: center;
 }
 
-.cid-main H2 
-{
+.cid-main H2 {
   color: #EE8A39;
   text-align: center;
   font-size: large;
   font-weight: 500;
 }
 
-.title {
+.content-outter {
+  width: 100%;
+  text-align: center;
+}
+
+.content-inner {
+  display: inline-block;
+}
+
+.left {
+  float: left;
+}
+
+.right {
   margin-left: 1em;
+  float: left;
+  vertical-align: center;
 }
 
 .cid-footer {
