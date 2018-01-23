@@ -1,5 +1,9 @@
 .cid-main {
   background-image: url("../assets/images/background-1199x899.png");
+  background-position: top center; 
+  background-repeat:   no-repeat;
+  background-size:     contain; 
+  background-color: #FCF2E9;
 }
 
 .cid-main H1 {
