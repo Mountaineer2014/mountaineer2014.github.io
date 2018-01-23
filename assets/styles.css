@@ -25,13 +25,14 @@
 }
 
 .left {
-  float: left;
+  display: inline-block;
+  height: 128px;
 }
 
 .right {
-  margin-left: 1em;
-  float: left;
-  vertical-align: center;
+  display: inline-block;
+  height: 128px;
+  
 }
 
 .cid-footer {
